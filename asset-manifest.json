@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kota/static/css/main.b8e92af0.css",
+    "main.js": "/Kota/static/js/main.b4cbd26f.js",
+    "static/media/1.png": "/Kota/static/media/1.0c42fb5521c307c73229.png",
+    "static/media/side_design.png": "/Kota/static/media/side_design.faf42e3f3502fa520cf3.png",
+    "static/media/geyser.png": "/Kota/static/media/geyser.3f828fbb0fd65c6a7013.png",
+    "static/media/about_us.png": "/Kota/static/media/about_us.4bc420797bc3364403c7.png",
+    "static/media/arrow_left.png": "/Kota/static/media/arrow_left.b7c042fcbfe3def6d1bc.png",
+    "static/media/flour_mill.png": "/Kota/static/media/flour_mill.20f51a406c7672ed1501.png",
+    "static/media/logo.jpeg": "/Kota/static/media/logo.555022391e83d640162a.jpeg",
+    "index.html": "/Kota/index.html",
+    "main.b8e92af0.css.map": "/Kota/static/css/main.b8e92af0.css.map",
+    "main.b4cbd26f.js.map": "/Kota/static/js/main.b4cbd26f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e92af0.css",
+    "static/js/main.b4cbd26f.js"
+  ]
+}
